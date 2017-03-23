@@ -1,0 +1,8 @@
+{
+  "name": "failed-proxy",
+  "version": "0.0.0",
+  "description": "failed-proxy",
+  "main": "index.js",
+  "author": "Takuya KIHARA",
+  "license": "MIT"
+}
